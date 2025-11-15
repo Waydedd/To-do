@@ -13,7 +13,7 @@ This project is a simple PHP-based to-do list application with reminder function
 
 ## Technologies Used
 
-* **Frontend**: HTML, CSS
+* **Frontend**: PHP, CSS
 * **Backend**: PHP
 * **Database**: MySQL
 
